@@ -1,11 +1,6 @@
 
 
-# ubuntu-iso-builder-import-pacstall-gnome-shell-attach-themes
-
-
-
-
-## Home
+# Home
 
 > [ubuntu-iso-builder-import-pacstall-gnome-shell-attach-themes](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-gnome-shell-attach-themes)
 
